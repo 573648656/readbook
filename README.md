@@ -87,7 +87,7 @@ https://www.yuque.com/legado/wiki/community
 
 # Other-其他 [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-)
 ##### 免责声明
-https://gedoor.github.io/Disclaimer
+https://gedoor.github.io/Disclaime
 
 ##### 阅读3.0
 * [书源规则](https://alanskycn.gitee.io/teachme)
